@@ -1,0 +1,9 @@
+.row_pad{
+    padding-left: 50px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    justify-content:space-between;
+    justify-items:center;
+
+} 
